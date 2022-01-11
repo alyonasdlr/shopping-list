@@ -1,4 +1,5 @@
 - Bacon
 - Eggs
-- XBox
 - Water
+- Broccoli
+- Avocado
